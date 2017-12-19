@@ -32,6 +32,6 @@
 
 ## Команда Mirry
 - **[Иванов Алексей](https://stankin.github.io/inet-2017/idm-17-06/Ivanov/index.html), [github](https://github.com/lesha38) (ИДМ-17-06): frontend**
-- **[Копий Анна](https://stankin.github.io/inet-2017/idm-17-06/Copiy/) [github](https://github.com/ncopiy) (ИДМ-17-06): ideas, design, testing**
+- **[Копий Анна](https://stankin.github.io/inet-2017/idm-17-06/Copiy/), [github](https://github.com/ncopiy) (ИДМ-17-06): ideas, design, testing**
 - **[Куковинец Дмитрий](https://stankin.github.io/inet-2017/idm-17-06/Kukovinets/index.html), [github](https://github.com/DmitryKuk) (ИДМ-17-06): backend, architecture**
-- **Ласковый Никита [github](https://github.com/cruzya) (ИДМ-17-06): backend, services**
+- **Ласковый Никита, [github](https://github.com/cruzya) (ИДМ-17-06): backend, services**
