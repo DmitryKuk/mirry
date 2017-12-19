@@ -31,7 +31,7 @@
 - Монетизация
 
 ## Команда Mirry
-- **[Иванов Алексей]](https://github.com/) (ИДМ-17-06): frontend**
+- **Иванов Алексей (ИДМ-17-06): frontend**
 - **[Копий Анна](https://github.com/ncopiy) (ИДМ-17-06): ideas, design, testing**
 - **[Куковинец Дмитрий](https://github.com/DmitryKuk) (ИДМ-17-06): backend, architecture**
 - **[Ласковый Никита](https://github.com/cruzya) (ИДМ-17-06): backend, services**
